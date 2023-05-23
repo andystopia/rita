@@ -1,7 +1,9 @@
-# Tauri + Svelte + Typescript
+# Rita.
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+![Screenshot of Rita Writing App](public/rita-screenshot.png)
 
-## Recommended IDE Setup
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+## Rita is a distraction-free, stream of conciousness, text editor.
+
+Rita is designed to only show you the current line of text and the previous line. It does not allow you to format your text. It's solely for stream-of-conciousness writing.
+
